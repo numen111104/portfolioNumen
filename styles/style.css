@@ -26,7 +26,6 @@ body {
   background-color: var(--bgPrimary);
   font-family: "Montserrat Alternates", sans-serif;
   transition: 4s ease-in-out;
-
 }
 
 h1,
@@ -139,7 +138,7 @@ a {
 
 .logo img {
   vertical-align: middle;
-  margin-right: .2rem;
+  margin-right: 0.2rem;
 }
 
 .logo a {
@@ -204,7 +203,7 @@ nav ul li a {
 }
 
 .services .pre-title {
-  margin: o auto;
+  margin: 0 auto;
 }
 
 .services-title {
